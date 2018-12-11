@@ -1,0 +1,184 @@
+{
+	"slides" : [
+		{
+			"type" : "image",
+			"img" : "01.png",
+			"img_small" : "01-small.png",
+			"bg" : "01.jpg?1",
+			"bg_small" : "01-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "02.png",
+			"img_small" : "02-small.png",
+			"bg" : "02.jpg?1",
+			"bg_small" : "02-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "03.png",
+			"img_small" : "03-small.png",
+			"bg" : "03.jpg?1",
+			"bg_small" : "03-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "04.png",
+			"img_small" : "04-small.png",
+			"bg" : "04.jpg?1",
+			"bg_small" : "04-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "05.png",
+			"img_small" : "05-small.png",
+			"bg" : "05.jpg?1",
+			"bg_small" : "05-small.jpg?1"
+		},
+		{
+			"type" : "yt",
+			"id" : "15yvMlaJF4o"
+		},
+		{
+			"type" : "image",
+			"img" : "07.png",
+			"img_small" : "07-small.png",
+			"bg" : "07.jpg?1",
+			"bg_small" : "07-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "08.png",
+			"img_small" : "08-small.png",
+			"bg" : "08.jpg?1",
+			"bg_small" : "08-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "09.png",
+			"img_small" : "09-small.png",
+			"bg" : "09.jpg?1",
+			"bg_small" : "09-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "10.png",
+			"img_small" : "10-small.png",
+			"bg" : "10.jpg?1",
+			"bg_small" : "10-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "11.png",
+			"img_small" : "11-small.png",
+			"bg" : "11.jpg?1",
+			"bg_small" : "11-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "12.png",
+			"img_small" : "12-small.png",
+			"bg" : "12.jpg?1",
+			"bg_small" : "12-small.jpg?1"
+		},
+		{
+			"type" : "yt",
+			"id" : "40pUKiaHiy8"
+		},
+		{
+			"type" : "image",
+			"img" : "14.png",
+			"img_small" : "14-small.png",
+			"bg" : "14.jpg?1",
+			"bg_small" : "14-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "15.png",
+			"img_small" : "15-small.png",
+			"bg" : "15.jpg?1",
+			"bg_small" : "15-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "16.png",
+			"img_small" : "16-small.png",
+			"bg" : "16.jpg?1",
+			"bg_small" : "16-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "17.png",
+			"img_small" : "17-small.png",
+			"bg" : "17.jpg?1",
+			"bg_small" : "17-small.jpg?1"
+		},
+		{
+			"type" : "yt",
+			"id" : "lcNXWa7IiPU"
+		},
+		{
+			"type" : "image",
+			"img" : "19.png",
+			"img_small" : "19-small.png",
+			"bg" : "19.jpg?1",
+			"bg_small" : "19-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "20.png",
+			"img_small" : "20-small.png",
+			"bg" : "20.jpg?1",
+			"bg_small" : "20-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "21.png",
+			"img_small" : "21-small.png",
+			"bg" : "21.jpg?1",
+			"bg_small" : "21-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "22.png",
+			"img_small" : "22-small.png",
+			"bg" : "22.jpg?1",
+			"bg_small" : "22-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "23.png",
+			"img_small" : "23-small.png",
+			"bg" : "23.jpg?1",
+			"bg_small" : "23-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "24.png",
+			"img_small" : "24-small.png",
+			"bg" : "24.jpg?1",
+			"bg_small" : "24-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "25.png",
+			"img_small" : "25-small.png",
+			"bg" : "25.jpg?1",
+			"bg_small" : "25-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "26.png",
+			"img_small" : "26-small.png",
+			"bg" : "26.jpg?1",
+			"bg_small" : "26-small.jpg?1"
+		},
+		{
+			"type" : "image",
+			"img" : "27.png",
+			"img_small" : "27-small.png",
+			"bg" : "27.jpg?1",
+			"bg_small" : "27-small.jpg?1"
+		}
+	]
+}

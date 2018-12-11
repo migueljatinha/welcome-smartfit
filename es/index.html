@@ -1,0 +1,45 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Smart Fit</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+        <link rel="stylesheet" href="css/app.css">
+    </head>
+
+    <body>
+
+        <div class="ico">
+            <svg data-name="FullScreen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31">
+                <polygon points="21 0 21 2 27.59 2 16.59 13 18 14.41 29 3.41 29 10 31 10 31 0 21 0"/>
+                <polygon points="26 29 2 29 2 5 18 5 18 3 0 3 0 31 28 31 28 13 26 13 26 29"/>
+            </svg>
+        </div>
+        
+        <div class="loader">
+            <div class="progress"></div>
+        </div>
+
+        <div class="presentation"></div>
+
+        <div class="playSlide">
+            <img src="img/00-small.png"width: 80px; cursor:pointer;>
+        </div>
+        
+        <script>
+          var tag = document.createElement('script');
+          tag.src = "https://www.youtube.com/iframe_api";
+          var firstScriptTag = document.getElementsByTagName('script')[0];
+          firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+        </script>  
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/preloadjs-0.6.2.min.js"></script>
+        <script src="js/app.js?1"></script>
+
+    </body>
+</html>
